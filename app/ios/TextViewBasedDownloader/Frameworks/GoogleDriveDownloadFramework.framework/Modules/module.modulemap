@@ -1,0 +1,6 @@
+framework module GoogleDriveDownloadFramework {
+  umbrella header "GoogleDriveDownloadFramework.h"
+
+  export *
+  module * { export * }
+}
